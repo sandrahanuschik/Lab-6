@@ -17,6 +17,7 @@ def main():
                         element += 3
                         encode += str(element)
                 print(encode)
+                print("hey")
 
 if __name__ == "__main__":
     main()
